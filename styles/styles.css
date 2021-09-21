@@ -1,0 +1,24 @@
+p{
+    color: orange;
+}
+h3{
+    color: aquamarine;
+}
+a{
+    background-color: burlywood;
+}
+.parrafovioleta{
+    color: violet;
+}
+
+.textoverde{
+    color: white;
+    background: pink;
+}
+
+.textonegrilla{
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: salmon;
+    font-size: 15px;
+}
